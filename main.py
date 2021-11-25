@@ -1,13 +1,13 @@
-from random import randint
-from replit import clear
-from game_data import data
-from art import logo, vs
+# from random import randint
+# from replit import clear
+# from game_data import data
+# from art import logo, vs
 
-def game_loop():
-  game_data = data
-  number_in_list = (len(game_data)-1)
-  should_run = True
-  score = 0
+# def game_loop():
+#   game_data = data
+#   number_in_list = (len(game_data)-1)
+#   should_run = True
+#   score = 0
 
   def two_variables(game_data):
     """ Use game_data to select two random variables """
